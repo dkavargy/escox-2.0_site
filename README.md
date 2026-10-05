@@ -1,3 +1,12 @@
+---
+title: ESCOX 2.0
+emoji: 🧭
+colorFrom: blue
+colorTo: green
+sdk: docker
+app_port: 7860
+---
+
 # ESCOX 2.0
 
 A full-stack web application based on ESCO classification with main skill extraction, occupation matching, and skill gap analysis features. Built as an extension of the original [ESCOSkillExtractor](https://github.com/KonstantinosPetrakis/esco-skill-extractor) tool, adding user accounts, saved results, and progress tracking on top of the core extraction engine.
